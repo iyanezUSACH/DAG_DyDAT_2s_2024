@@ -9,11 +9,11 @@
 </h1>
 <h2>Desarrollo de Script para ejecutar procesos en una Base de Datos Espacial</h2>
 
-<p>Cada alumno debe seleccionar un servicio (como gimnasio, supermercado, clínica veterinaria, etc.) que desee instalar en una comuna de elección. Mediante uso de un modelo espacial debe determinar el o los predios óptimos para la instalación del servicio escogido.
+<p>Cada alumno debe seleccionar un servicio (como gimnasio, supermercado, clínica veterinaria, etc.) que desee instalar en una comuna de elección. Mediante uso de un modelo espacial🌐 debe determinar el o los predios óptimos para la instalación del servicio escogido.
 
 Debe especificar el modelo utilizado o proponer un modelo de interacción con variables a su criterio.
 
-Requerimientos del script Python: 
+Requerimientos del script Python🐍: 
 1.	Configuración Inicial:
 o	Conexión a una base de datos PostgreSQL/PostGIS existente.
 2.	Procesamiento de la Información:
@@ -28,9 +28,9 @@ o	El script .py debe ser capaz de:
 
 Requerimientos de entrega:
 
-1.	Crear un repositorio en GitHub el cual debe incluir:
+1.	Crear un repositorio en GitHub📂, el cual debe incluir:
 
-- Un archivo README.md que explique cómo clonar y ejecutar el proyecto en local.
+- Un archivo README.md ✍️que explique cómo clonar y ejecutar el proyecto en local.
 - Instrucciones claras para la instalación de dependencias (requirements.txt) y configuración del entorno (config.json).
 - Archivos SQL necesarios.
 - Script Python bien documentado.
@@ -40,3 +40,7 @@ Requerimientos de entrega:
 Ejemplo de scripts:
 
 <a href="https://drive.google.com/drive/u/0/folders/144_Fp0CzAtKBJbmtyof3umG3zzkTMEKO" target="_blank">https://drive.google.com/drive/u/0/folders/144_Fp0CzAtKBJbmtyof3umG3zzkTMEKO</a>
+
+Plazo:
+
+18/12/2024 08:00:00 💯
