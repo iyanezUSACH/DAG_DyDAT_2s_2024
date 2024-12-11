@@ -31,9 +31,9 @@ Requerimientos de entrega:
 1.	Crear un repositorio en GitHub📂, el cual debe incluir:
 
 - Un archivo README.md ✍️que explique cómo clonar y ejecutar el proyecto en local.
-- Instrucciones claras para la instalación de dependencias (requirements.txt) y configuración del entorno (config.json).
-- Archivos SQL necesarios.
-- Script Python bien documentado.
+- [Instrucciones claras para la instalación de dependencias](ejemplo/requirements.txt) y [configuración del entorno](ejemplo/config.json).
+- [Archivos SQL necesarios.](ejemplo/sql_queries/add_geometry_to_services.sql)
+- [Script Python bien documentado.](ejemplo/ide_subpesca_conector.py)
 - Datos de ejemplo para poblar la base de datos y probar el proyecto.
 - Ejemplo de uso.
 
